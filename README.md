@@ -1,1 +1,1 @@
-# lol
+# Project Helper CLI
